@@ -14,4 +14,4 @@ Hands-on cybersecurity lab focused on using Linux commands to inspect, interpret
 Strengthened my understanding of Linux access control and how proper file permissions help protect resources from unauthorized access.
 
 ## Lab Evidence
-The completed lab is included in 'linux-file-permissions-lab'
+The completed lab is included in `linux-file-permissions-lab.pdf`.
